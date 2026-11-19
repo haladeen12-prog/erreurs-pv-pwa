@@ -1,3 +1,4 @@
+erreurs-pv-pwa/
 index.html
 manifest.webmanifest
 sw.js
